@@ -1,5 +1,5 @@
-## Name : SHYAM SUJIN U
-## Reg no : 212223040201
+## Name : Tarun S
+## Reg no : 212223040226
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
@@ -86,7 +86,7 @@ return 0;
 ```
 
 ## OUTPUT
-![image](https://github.com/Shyamsujin/Linux-IPC-Message-Queues/assets/144870449/252b2560-285c-49ef-b0b3-d33200592ed9)
+![image](https://github.com/Tarun-2006/Linux-IPC-Message-Queues/assets/145584190/b265ed36-1460-413f-8703-24afa89e0255)
 
 
 
